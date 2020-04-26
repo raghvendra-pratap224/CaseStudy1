@@ -17,4 +17,4 @@ Then Registration should be successful
 Examples: −
 
 | username  | firstname | lastname | password | repass | gender | email | mobilenumber | dob | address | question | answer |
-| Raghav2241 | Raghav | Gaurav | Ragh12 | Ragh12 | 0 | Raghav@gmail.com | 9988776655 | 18/09/1996 | Gorakhpur UP | What is your Nick Name? | Ram |
+| raghav2585 | Raghav | Gaurav | Ragh1234 | Ragh1234 | 0 | Raghav@gmail.com | 9988776655 | 18/09/1996 | Gorakhpur UP | What is your Nick Name? | Ram |
